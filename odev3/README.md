@@ -11,6 +11,7 @@ Bu ödevde gerçek zamanlı çalışan bir oylama uygulaması geliştirmeniz ger
 - [ ] Verilen oylar gerçek zamanlı olarak bağlı olan diğer kullanıcılara da gösterilmelidir.
 - [ ] Sayfa yenilendikten sonra herhangi veri kaybı olmamalıdır.
 - [ ] Oylama sonuç durumu grafiksel ve yüzdesel olarak gösterilmelidir.
+- [ ] Uygulama Netlify üzerine deploy edilmeli ve uygulamanın demo URL'i README dosyasının en üstünde belirtilmelidir.
 
 
 [Demo Uygulama](https://www.youtube.com/watch?v=M0s6DLpcSn0)
