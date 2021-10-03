@@ -18,5 +18,6 @@ Bu ödevde gerçek zamanlı çalışan bir oylama uygulaması geliştirmeniz ger
 
 > Tasarımı dilediğiniz gibi yapabilirsiniz.
 
+Son teslim tarihi: 11.10.2021 - 10:00
 
 Kolaylıklar :)
