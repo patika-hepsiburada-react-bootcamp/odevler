@@ -19,5 +19,6 @@ Sizden genel olarak bir hava durumu uygulaması geliştirmenizi bekliyorum. Tür
 
 > Tasarımı dilediğiniz gibi yapabilirsiniz.
 
+Son teslim tarihi: 18.10.2021 - 10:00
 
 Bol şans :ghost:
