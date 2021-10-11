@@ -2,7 +2,7 @@
 
 Sizden genel olarak bir hava durumu uygulaması geliştirmenizi bekliyorum. Türkiye'nin tüm illerinin o günkü hava raporunu görüntüleyebilmeliyiz.
 
-![preview](./figures/preview.png)
+![preview](./figures/preview.png?)
 
 
 ## Gereksinimler
